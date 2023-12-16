@@ -1,0 +1,34 @@
+# Libraries
+node_modules/
+
+# Generated static files
+public/
+
+# Editor config files
+.vscode
+.idea
+
+# Deploy cache files
+.deploy*/
+
+# Cache files
+db.json
+package-lock.json
+yarn.lock
+.DS_Store
+Thumbs.db
+
+# Theme
+themes/fluid/.editorconfig
+themes/fluid/.eslintrc
+themes/fluid/.gitattributes
+themes/fluid/.gitignore
+themes/fluid/LICENSE
+themes/fluid/README_en.md
+themes/fluid/README.md
+themes/fluid/gulpfile.js
+themes/fluid/.github/
+
+# Others
+*.log
+_multiconfig.yml
